@@ -1,5 +1,6 @@
 // index.js
-const crs_strfuncs = require('./crs_strfuncs');
+const crsstrfuncs = require('./crsstrfuncs');
  
-console.log(crs_strfuncs('madam')); 
-console.log(crs_strfuncs('hello')); 
+console.log(crsstrfuncs('madam')); 
+console.log(crsstrfuncs('banana')); 
+console.log(crsstrfuncs('abcde')); 
